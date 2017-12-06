@@ -3,7 +3,7 @@
 [![GoDoc](https://godoc.org/github.com/vbchain/go?status.svg)](https://godoc.org/github.com/vbchain/go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/vbchain/go)](https://goreportcard.com/report/github.com/vbchain/go)
 
-This repo is the home for all of the public go code produced by SDF.  In addition to various tools and services, this repository is the SDK from which you may develop your own applications that integrate with the vbchain network.
+This repo is the home for all of the public go code produced by VIXAL.  In addition to various tools and services, this repository is the SDK from which you may develop your own applications that integrate with the VIXAL network.
 
 ## Dependencies
 
